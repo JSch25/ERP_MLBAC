@@ -1,4 +1,4 @@
-# ERP_MLBAC
+# MLBAC for EPR Systems
 
 <div align="justify">
 This repository provides additional information and code on the paper "Machine Learning-based Enhancement of Access Control in ERP Systems Using Real-world Data". The paper was submitted for EDOC 2025 – 29th International Conference on Enterprise Design, Operations, and Computing. In the context of access control in ERP systems, a common challenge is to assign the right permissions to users as accurately as possible. This involves two main tasks: regularly reviewing and validating the access rights of existing users, and assigning appropriate initial permissions to new users based on their responsibilities. To support these challenges, machine learning can be applied to predict access decisions. This approach is referred to as Machine Learning-based Access Control (MLBAC).
