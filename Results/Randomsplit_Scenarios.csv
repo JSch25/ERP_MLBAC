@@ -1,0 +1,19 @@
+﻿Company ;Scenario ;FI;CO;MM;LO;SD
+Company A (7 Attributes) ;S1a ;121;6;7;27;8
+Company A (7 Attributes) ;S1b ;2930;490;195;231;107
+Company A (7 Attributes) ;S2 ;3058;184;168;236;92
+Company A (7 Attributes) ;S3 ;2723;490;417;248;188
+Company A (7 Attributes) ;S4a ;791;222;125;68;168
+Company A (7 Attributes) ;S4b ;91;4;12;14;26
+Company B (7 Attributes) ;S1a ;936;352;942;614;395
+Company B (7 Attributes) ;S1b ;22273;10871;19375;13148;8090
+Company B (7 Attributes) ;S2 ;15076;6228;12773;10590;7320
+Company B (7 Attributes) ;S3 ;10304;5527;16850;13463;4721
+Company B (7 Attributes) ;S4a ;2898;735;5402;3640;1363
+Company B (7 Attributes) ;S4b ;870;225;674;377;541
+Company B (21 Attributes) ;S1a ;935;319;921;609;388
+Company B (21 Attributes) ;S1b ;20325;10013;18982;12357;7482
+Company B (21 Attributes) ;S2 ;13480;5453;12220;10036;6113
+Company B (21 Attributes) ;S3 ;9819;5393;16376;12820;4470
+Company B (21 Attributes) ;S4a ;2908;766;4963;3712;1418
+Company B (21 Attributes) ;S4b ;894;238;680;385;538
